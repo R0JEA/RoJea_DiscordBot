@@ -1,0 +1,8 @@
+{
+  "newschannel": "id-here",
+  "newsrole": "role-id-here",
+  "dimensions": {
+    "width": 3200,
+    "height": 3800
+  }
+}

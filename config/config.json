@@ -1,0 +1,46 @@
+{
+  "main": {
+    "token": "discord-token-here",
+    "prefix": "!"
+  },
+  "crimerp": {
+    "directory": "resources/RoJea_DiscordBot",
+    "iconhd": "sampleimage.png"
+  },
+  "fivemCommands": [
+    "offlineban"
+  ],
+  "fivemCommandsSpecial": [
+    "createimport"
+  ],
+  "highadminComs": [
+    "addmoney"
+  ],
+  "activity": {
+    "type": "PLAYING",
+    "refreshTime": 5
+  },
+  "jobRefresh": 120,
+  "channels": {
+    "off-topic": "channel-id-here",
+    "cmds": "channel-id-here"
+  },
+
+  "actions": {
+    "kick": {
+      "use-limit": 20,
+      "color": 5360709
+    },
+    "ban": {
+      "use-limit": 10,
+      "color": 5360709
+    }
+  },
+  "people": {
+    "rojea": "dc-id",
+    "highadmin": "dc-id",
+    "serverTeam": [
+      "dc-role-id"
+    ]
+  }
+}
